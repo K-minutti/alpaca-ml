@@ -1,1 +1,1 @@
-# Alpaca Trade API Ocaml Client
+# Alpaca Trade API OCaml Client
