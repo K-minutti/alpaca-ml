@@ -1,0 +1,4 @@
+(executable
+ (public_name alpaca_ml)
+ (name main)
+ (libraries alpaca_ml))
